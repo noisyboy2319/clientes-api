@@ -1,0 +1,10 @@
+D:\laboratorio 3\clientes-api\src\main\java\pe\edu\unsch\clientes\ClientesApplication.java
+D:\laboratorio 3\clientes-api\src\main\java\pe\edu\unsch\clientes\controller\ClienteController.java
+D:\laboratorio 3\clientes-api\src\main\java\pe\edu\unsch\clientes\dto\ClienteRequestDTO.java
+D:\laboratorio 3\clientes-api\src\main\java\pe\edu\unsch\clientes\dto\ClienteResponseDTO.java
+D:\laboratorio 3\clientes-api\src\main\java\pe\edu\unsch\clientes\exception\ClienteNoEncontradoException.java
+D:\laboratorio 3\clientes-api\src\main\java\pe\edu\unsch\clientes\exception\DniDuplicadoException.java
+D:\laboratorio 3\clientes-api\src\main\java\pe\edu\unsch\clientes\exception\GlobalExceptionHandler.java
+D:\laboratorio 3\clientes-api\src\main\java\pe\edu\unsch\clientes\model\Cliente.java
+D:\laboratorio 3\clientes-api\src\main\java\pe\edu\unsch\clientes\repository\ClienteRepository.java
+D:\laboratorio 3\clientes-api\src\main\java\pe\edu\unsch\clientes\service\ClienteService.java
